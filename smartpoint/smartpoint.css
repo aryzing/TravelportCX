@@ -1,0 +1,37 @@
+:root {
+  /* Grays */
+  --black: #000000;
+  --gray-01: #333333;
+  --gray-02: #4E4E4E;
+  --gray-03: #666666;
+  --gray-04: #848484;
+  --gray-05: #999999;
+  --gray-06: #AAAAAA;
+  --gray-07: #CBCBCB;
+  --gray-08: #E6E6E6;
+  --gray-09: #F2F2F2;
+
+  /* Blues */
+  --dark-blue: #0C3B55;
+  --medium-blue: #0C3B55;
+  --light-blue: #55A2DA;
+  --gray-blue: #6DA0B9;
+  --pale-gray-blue: #CFDDE2;
+
+  /* Text and Emphasis Colors */
+  --standard-text: #333333;
+  --terminal-orange: #F39A26;
+  --screen-orange: #F15A24;
+  --terminal-green: #00DD00;
+  --screen-green: #02A502;
+  --terminal-blue: #43C0FF;
+  --screen-blue: #0599F3;
+
+  /* Notifications and Alerts */
+  --error: #C72B2B;
+  --error-background: #FFB0B0;
+  --warning: #C99652;
+  --warning-background: #FFEEA6;
+  --success: #33AD33;
+  --success-background: #DFF0D8;
+}
